@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(126, 126, 126) !important;
+}
+
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: #525252 !important;}
+.offcanvas-body {
+    flex-grow: 1;
+    padding: 1rem 1rem;
+    overflow-y: auto;
+    background-color:  gray !important;
+}
+.offcanvas-header {
+    flex-grow: 1;
+    padding: 1rem 1rem;
+    overflow-y: auto;
+    background-color: #3e3e3ed9 !important;
+} 
+.mainbody{
+    background-repeat: space;
+    background-size: cover;
+    background-image: url("https://images.pexels.com/photos/10130130/pexels-photo-10130130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+
+}
+
+.mainbodytwo{
+    background-repeat: space;
+    background-size: cover;
+    background-image: url("https://images.pexels.com/photos/10351666/pexels-photo-10351666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+.mainbodythree{
+    background-repeat: space;
+    background-size: cover;
+    background-image: url('https://images.pexels.com/photos/10413401/pexels-photo-10413401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    
+}
+.imgdrop{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 342px;
+    height: 141px;
+}
+
+
